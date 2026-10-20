@@ -10,8 +10,8 @@ This repository contains the answers to the [Full Stack Open version 2026](https
 
 ### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
 
-- [courseinfo](https://github.com/jeremy-ebinum/full-stack-open-2020/tree/master/part1/courseinfo) - Exercises 1.1.-1.2.
-- [unicafe](https://github.com/jeremy-ebinum/full-stack-open-2020/tree/master/part1/unicafe) - Exercises 1.6.-1.14.
+- [courseinfo](https://github.com/dotjasontung/full-stack-open/tree/main/part_1/courseinfo) - Exercises 1.1.-1.2.
+- [unicafe](https://github.com/dotjasontung/full-stack-open/tree/main/part_1/unicafe) - Exercises 1.6.-1.14.
 
   
 
