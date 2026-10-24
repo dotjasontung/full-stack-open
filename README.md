@@ -12,6 +12,8 @@ This repository contains the answers to the [Full Stack Open version 2026](https
 
 - [courseinfo](https://github.com/dotjasontung/full-stack-open/tree/main/part_1/courseinfo) - Exercises 1.1.-1.2.
 - [unicafe](https://github.com/dotjasontung/full-stack-open/tree/main/part_1/unicafe) - Exercises 1.6.-1.14.
+- [anecdotes](https://github.com/dotjasontung/full-stack-open/tree/main/part_1/anecdotes) -
+Exercises 1.6.-1.14.
 
   
 
